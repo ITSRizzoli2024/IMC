@@ -1,0 +1,73 @@
+﻿tema;domande;chiave;punteggio
+curiosità;Studia, si informa, approfondisce i problemi anche al di là delle cose che riguardano il suo lavoro;cu;3
+curiosità;Si mostra generalmente poco interessato alle cose che fa;cu;0
+curiosità;Approfondisce  le cose che riguardano il suo lavoro;cu;1
+capacità negativa (sostare nell'incertezza);Riesce a vivere senza eccessiva ansia le situazioni di incertezza;cn;1
+capacità negativa (sostare nell'incertezza);Riesce ad imparare anche dalle situazioni critiche;cn;3
+capacità negativa (sostare nell'incertezza);Mostra ansia eccessiva (o è facile a deprimersi) nelle situazioni di incertezza;cn;0
+cura di sé;E' consapevole di sé, dei suoi punti di forza e debolezza e delle caratteristiche della sua personalità;cs;3
+cura di sé;Non conosce sé stesso, effettua le scelte che lo riguardano senza consapevolezza;cs;0
+cura di sé;E' consapevole delle sue capacità professionali ma non delle sue emozioni;cs;1
+individuazione;Ama lasciare tracce, mettere sempre del suo nelle cose che fa;i;3
+individuazione;Non cerca il consenso degli altri a tutti i costi;i;1
+individuazione;Non ama assumere posizioni originali, diverse da quelle prevalenti;i;0
+pensiero positivo operativo;Riesce a cogliere elementi positivi anche nelle situazioni critiche;pp;1
+pensiero positivo operativo;Riesce a trasformare le difficoltà in opportunità;pp;3
+pensiero positivo operativo;Si scoraggia facilmente davanti ai problemi;pp;0
+internal locus of control;E' consapevole che ciò che gli accade dipende anche da lui e assume atteggiamenti  proattivi;il;3
+internal locus of control;E' consapevole che ciò che gli accade dipende anche da lui ma tende a assumere posizioni passive;il;1
+internal locus of control;Assume frequentemente atteggiamenti vittimistici;il;0
+self efficacy;Riesce a mettere a frutto le sue capacità ed esperienze quando affronta problemi inediti;se;3
+self efficacy;Si sente spesso inadeguato, tende a pensare che le sue capacità non sono sufficienti ;se;0
+self efficacy;Affronta con sicurezza solo problemi che hanno relazione con la sua esperienza;se;1
+speranzosità;E' fiducioso delle sue possibilità di crescita e di carriera;h;3
+speranzosità;E' tendenzialmente pessimista;h;0
+speranzosità;Pensa che il futuro non gli riservi né sostanziali miglioramenti né peggioramenti;h;1
+crescita;Ama imparare cose nuove, investe molto sulla sua formazione;cr;3
+crescita;"Pensa che ""ci sia sempre qualcosa da imparare"" ma che il più della sua formazione sia alle spalle";cr;1
+crescita;Vive con disagio e fatica le occasioni di apprendimento;cr;0
+responsabilità;Ama decidere, contare nelle scelte;r;3
+responsabilità;Vive senza ansia eccessiva l'assunzione di responsabilità;r;1
+responsabilità;Tende a non assuemersi responsabilità in prima persona;r;0
+leadership trasformativa;Aiuta gli altri a crescere, stimola, incoraggia, sprona;lt;3
+leadership trasformativa;Tende a diffidare degli altri;lt;0
+leadership trasformativa;Ha buoni rapporti con gli altri pur senza impegnarsi particolarmente nelle relazioni;lt;1
+immaginazione;Tende a prefigurare e immaginare scenari futuri e si orienta di conseguenza;im;3
+immaginazione;E' prevalentemente calato nell'operatività quotidiana;im;0
+immaginazione;Considera gli effetti a medio termine delle azioni che compie;im;1
+curiosità 2;usa solitamente diverse fonti di informazione ;cu2;3
+curiosità 2;si informa regolamente dalla stessa fonte informativa;cu2;1
+curiosità 2;non si informa con regolarità ;cu2;0
+capacità negativa (sostare nell'incertezza) 2;il cambiamento è vissuto come opportunità;cn2;3
+capacità negativa (sostare nell'incertezza) 2;il cambiamento è una componente della vita;cn2;1
+capacità negativa (sostare nell'incertezza) 2;il cambiamento può nascondere incognite;cn2;0
+cura di sé 2;accetta feedback e suggerimenti di cambiamento;cs2;3
+cura di sé 2;sa accettare le critiche anche se non positive;cs2;1
+cura di sé 2;criticare è sempre sbagliato;cs2;0
+individuazione 2;pensa di essere una piccola ruota dell'ingranaggio;i2;0
+individuazione 2;ritiene che non ci siano limiti al proprio sviluppo;i2;1
+individuazione 2;è consapevole dei propti punti di forza e debolezza;i2;3
+pensiero positivo operativo 2;a volte di blocca in situazioni di criticità;pp2;0
+pensiero positivo operativo 2;riesce ad affrontare situazione di criticità senza troppo stress;pp2;1
+pensiero positivo operativo 2;pensa a come trarre cose positive anche da situazioni critiche;pp2;3
+internal locus of control 2;a volte i problemi sono più grandi di me;il2;0
+internal locus of control 2;non sempre è possibile fornire il proprio contributo;il2;1
+internal locus of control 2;posso sempre contribuire, sia pure in piccola parte, algi eventi che mi coinvolgono;il2;3
+self efficacy 2;ho la capacità di affrontare sfide difficili;se2;3
+self efficacy 2;le mie capacità mi danno sostegno di fronte a sfide difficili;se2;1
+self efficacy 2;non sempre è possibile dare il proprio contributo alla soluzione dei problemi;se2;0
+speranzosità 2;il futuro ci riserva grandi soddisfazioni;h2;1
+speranzosità 2;il futuro va construito passo passo;h2;3
+speranzosità 2;il futuro nasconde insidie e minacce;h2;0
+crescita 2;ho sviluppato le competenze necessarie al mio lavoro;cr2;0
+crescita 2;non si finisce mai di imparare;cr2;1
+crescita 2;ogni cosa che apprendo apre nuove domande e sfide;cr2;3
+responsabilità 2;fornisce idee e proposte lavorando in gruppo;r2;3
+responsabilità 2;collabora attivamente nei gruppi di lavoro;r2;1
+responsabilità 2;non ama mettersi in mostra lavorando in gruppo;r2;0
+leadership trasformativa 2;il lavoro di team è importante per me;it2;1
+leadership trasformativa 2;contribuire alla crescita del team è un mio traguardo;it2;3
+leadership trasformativa 2;cerco sempre di socializzare all'interno di un team;it2;0
+immaginazione 2;si può sempre trovare una soluizione creativa ai problemi;im2;3
+immaginazione 2;a volte si devono affrontare i problemi con creatività;im2;1
+immaginazione 2;è difficile esprimere nuove idee nel mio ambito lavorativo;im2;0
